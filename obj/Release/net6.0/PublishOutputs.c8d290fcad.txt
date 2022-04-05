@@ -1,0 +1,12 @@
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/webCoreApp
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/publish/web.config
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/appsettings.Development.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/appsettings.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/publish/appsettings.Development.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/publish/appsettings.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/publish/webCoreApp.deps.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/publish/webCoreApp.runtimeconfig.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/webCoreApp.dll
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/webCoreApp.deps.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/webCoreApp.runtimeconfig.json
+/Users/javi/Desktop/CodeVista/dotnet/webCoreApp/publish/webCoreApp.pdb
